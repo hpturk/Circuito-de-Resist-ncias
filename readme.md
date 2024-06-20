@@ -1,0 +1,1 @@
+Dentro do main são criados valores de exemplo para as resistências Uma instância de CircuitoResistencias é criada com esses valores e os métodos para calcular a resistência equivalente, maior, menor resistência são chamados e os resultados são exibidos.
